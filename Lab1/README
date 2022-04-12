@@ -1,7 +1,7 @@
 It`s too boring to copy the common programs. To create smth new is cool!
 
 Usage: 
-	> INSTALL: pip install bs4 requests re
+	> INSTALL: pip install bs4 requests regex lxml
 	>> Run the programm
 	>>> Type any link to jpeg
 	>>>> Watch the result!.

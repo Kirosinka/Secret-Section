@@ -7,4 +7,8 @@ WeatherNow Python Script
 
 python3 -m pip install requests
 
+	! NEED A openweathermap.org api key for working !
+
+Add it to WeatherNow.py file of folder.
+
 @@ Created for MTUCI Labs #2102

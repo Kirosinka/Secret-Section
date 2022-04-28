@@ -66,7 +66,7 @@ def WeatherWeek(location, key):
         {'q': location, 'units': 'metric', 'lang': 'ru', 'APPID': key}).json()
 
 def main():
-        key = "1c360e73e671d891450b699d5d3fa53d"
+        key = "HERE IS YOUR !OPENWRATHERMAP! KEY"
         while(True):
                 location = LocationFinder()
                 system("clear")

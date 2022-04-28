@@ -1,0 +1,10 @@
+README FILE
+
+WeatherNow Python Script
+
+>> Automaticly finding region by ip adress using CIDR resources.
+>> Need internet connection for using the weather statistic.
+
+python3 -m pip install requests
+
+@@ Created for MTUCI Labs #2102
